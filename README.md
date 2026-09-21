@@ -14,7 +14,7 @@ Este relatório apresenta a documentação detalhada dos procedimentos práticos
 1.1 Configuração do Ambiente Virtual
 Para a realização das atividades, utilizou-se uma máquina virtual executada no hipervisor Oracle VM VirtualBox:
 
-- Imagem de VM: Mininet 2.3.0 (Ubuntu 20.04 LTS AMD64).
+- Imagem de VM: Mininet 2.3.0 (Ubuntu 20.04 LTS AMD64). https://github.com/mininet
 
 - Credenciais de Acesso: Usuário mininet e senha mininet.
 
