@@ -34,8 +34,7 @@ sudo mn -c
 ### 1. Acesso Remoto à Máquina Virtual via SSH
 Conexão efetuada através do Windows PowerShell para a máquina virtual do Mininet (`mininet@192.168.15.10`), garantindo o suporte adequado ao ambiente de linha de comandos.
 
-![Acesso SSH à VM do Mininet](<img width="450" height="266" alt="0_ssh" src="https://github.com/user-attachments/assets/e18dd9f6-3ddd-4304-b18f-c17898d20a1c" />
-)
+![Acesso SSH à VM do Mininet](./imagens/0_ssh.png)
 
 ---
 
