@@ -35,7 +35,7 @@ Em atendimento aos requisitos solicitados:
 
   * Enlaces Switch-Switch (Trunks): Largura de banda de 100 Mbps e atraso de 2 ms.
  
-2.2 Código Fonte em Python (custom_lab_topo.py)
+2.2 Código Fonte em Python (topologia.py)
 ```
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
